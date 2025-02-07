@@ -8,5 +8,4 @@ const fady = new SoftwareDeveloper();
 // Access the property
 console.log(SoftwareDeveloper.favoriteLanguage);// undefined
 console.log(fady.favoriteLanguage); // Output: JavaScript
-fuck you 
-fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you 
+
