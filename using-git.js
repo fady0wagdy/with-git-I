@@ -1,1 +1,1 @@
-fuck you
+console.log("good")
